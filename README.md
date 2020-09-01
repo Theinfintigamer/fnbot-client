@@ -53,3 +53,4 @@ The first login requires you to use a browser. Follow [this link](https://www.ep
   - Automatically receive warnings from the cosmetic servers.
   - Warnings can be used to announce maintenance, to inform about commands/features not working, and more.
 - Better support for inviting the bot in own parties
+[![Run on Repl.it](https://repl.it/badge/github/Terax235/fnbot-client)](https://repl.it/github/Terax235/fnbot-client)
